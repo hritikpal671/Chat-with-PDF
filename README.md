@@ -18,6 +18,12 @@ Ensure you have the following installed before running the application:
 - langchain_community
 
 
+
+
+https://github.com/user-attachments/assets/9c1433a0-9ec9-484f-b8c3-c123bd8d68c4
+
+
+
 You can install these dependencies using pip:
 
 ```bash
@@ -42,6 +48,7 @@ pip install -r requirements.txt
    ```env
    GOOGLE_API_KEY=your_google_api_key
    ```
+
 
 3. **Running the Application**
 
